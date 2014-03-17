@@ -1,4 +1,4 @@
 RemObjectsCSharp
 ================
 
-Practice with RemObjects C# Java &amp;&amp; Android
+Practice with RemObjects C# Java and Android
